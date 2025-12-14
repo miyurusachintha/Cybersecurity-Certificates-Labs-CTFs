@@ -1,84 +1,122 @@
-# 🛡️ Cybersecurity Certificates Repository
+🛡️ Cybersecurity Certificates Repository
 
-This repository is a **central collection of my cybersecurity-related certificates and achievements** earned from various learning platforms.
-It is intended to showcase **hands-on training, theoretical knowledge, and continuous learning** in the field of cybersecurity.
+This repository is a central collection of my cybersecurity-related certificates, hands-on labs, and CTF achievements earned from various learning platforms.
+It is intended to showcase practical experience, theoretical knowledge, and continuous learning in the field of cybersecurity.
 
----
-
-## 🎓 Certificates Included
+🎓 Certificates Included
 
 This repository may contain certificates from:
 
-* TryHackMe
-* Hack The Box
-* Coursera / edX
-* University or institutional programs
-* Cybersecurity workshops, bootcamps, and online courses
+TryHackMe
 
-📄 All certificate files are organized inside the `/certificates` folder.
+Hack The Box
+
+Coursera / edX
+
+University or institutional programs
+
+Cybersecurity workshops, bootcamps, and online courses
+
+📄 All certificate files are organized inside the /certificates folder.
 
 Each certificate may include:
 
-* Platform / Issuer
-* Course or path name
-* Certificate ID
-* Verification link
+Platform / Issuer
 
----
+Course or path name
 
-## 🧠 Skills & Topics Covered
+Certificate ID
 
-Certificates in this repository may cover topics such as:
+Verification link
 
-* Cybersecurity fundamentals
-* Ethical hacking & penetration testing
-* Networking concepts
-* Linux fundamentals
-* Security awareness & attack vectors
-* Web application security
-* Blue team & defensive security basics
-* Hands-on labs and practical challenges
+🧪 Hands-On Labs & CTFs
 
----
+In addition to certificates, this repository also includes:
 
-## 🛠️ Tools & Platforms
+Hands-on cybersecurity labs
 
-Learning and certification platforms/tools may include:
+Capture The Flag (CTF) challenges
 
-* TryHackMe
-* Kali Linux
-* Linux CLI
-* Networking and security tools
-* Virtual labs and simulation environments
+Practical exercises covering real-world security scenarios
 
----
+📂 These are organized inside:
 
-## 🎯 Purpose of This Repository
+/hands-on-labs-and-ctfs
 
-* Maintain a **professional cybersecurity certificate archive**
-* Upload and organize **any cybersecurity-related certificates** in one place
-* Track **learning progress and skill development**
-* Support **university and academic studies**
-* Showcase achievements to **recruiters, mentors, and collaborators**
+Each lab or CTF may include:
 
----
+Platform (TryHackMe, Hack The Box, PicoCTF, etc.)
 
-## 👨‍💻 About Me
+Category (Web, Network, Linux, OSINT, Cryptography)
 
-* Cybersecurity undergraduate
-* Actively self-learning cybersecurity and ethical hacking
-* Regularly practicing through labs, courses, and challenges
+Difficulty level
 
-📍 Focused on building **real-world, practical security skills**
+Tools and techniques used
 
----
+Key learnings and notes
 
-## ⚠️ Disclaimer
+🧠 Skills & Topics Covered
 
-All certificates, notes, and learning materials in this repository are shared **for educational and portfolio purposes only**.
+Content in this repository may cover:
+
+Cybersecurity fundamentals
+
+Ethical hacking & penetration testing
+
+Networking concepts
+
+Linux & Windows fundamentals
+
+Web application security
+
+OSINT & reconnaissance
+
+Blue team & defensive security basics
+
+Hands-on labs and practical challenges
+
+🛠️ Tools & Platforms
+
+Learning platforms and tools may include:
+
+TryHackMe
+
+Hack The Box
+
+Kali Linux
+
+Linux & Windows CLI
+
+Nmap, Wireshark, Tcpdump
+
+Virtual labs and simulation environments
+
+🎯 Purpose of This Repository
+
+Maintain a professional cybersecurity portfolio
+
+Organize certificates, labs, and CTFs in one place
+
+Track learning progress and skill development
+
+Support university and academic studies
+
+Showcase achievements to recruiters, mentors, and collaborators
+
+👨‍💻 About Me
+
+Cybersecurity undergraduate
+
+Actively self-learning cybersecurity and ethical hacking
+
+Regularly practicing through labs, CTFs, and courses
+
+📍 Focused on building real-world, practical security skills
+
+⚠️ Disclaimer
+
+All certificates, notes, labs, and CTF materials in this repository are shared for educational and portfolio purposes only.
 
 No content in this repository is intended for illegal, unethical, or malicious use.
-
----
 
 ⭐ Recruiters, mentors, and learners are welcome to review this repository.
