@@ -25,4 +25,4 @@ Analyzing logs and network-related data efficiently
 I plan to apply these skills in hands-on cybersecurity projects, scripting, and automation while continuing to advance my technical expertise.
 
 🔗 Certificate Verification:
-https://lnkd.in/eXzcxjGN
+(https://www.mygreatlearning.com/certificate/PPXZWQDB)
